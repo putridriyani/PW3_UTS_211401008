@@ -1,0 +1,123 @@
+.music-section {
+    padding: 2rem 0;
+    background: linear-gradient(to left, #13184d 0%, #3e1c4e 50%);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    }
+.music-jarak{
+    padding-bottom: 5rem;
+}
+
+
+.masthead {
+    padding-top: 15rem;
+    padding-bottom: 18rem;
+    background-image: url(/assets/TheScriptBand_Filtered-scaled.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+  } 
+
+.about-section {
+    padding: 2rem 0;
+    background-image: url(/assets/thescript-single-masthead2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    }
+
+.photo-section {
+    padding: 2rem 0;
+    background: linear-gradient(to bottom, #13184d 0%, #3e1c4e 80%);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    }
+
+  .music-section {
+    padding: 2rem 0;
+    background: linear-gradient(to top, #13184d 0%, #3e1c4e 50%);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    }
+
+.video-section {
+    padding: 2rem 0;
+    background: linear-gradient(to top, #13184d 0%, #3e1c4e 50%);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    }
+
+
+.newsletter-section {
+    padding: 2rem 0;
+    background: linear-gradient(to bottom, #13184d 0%, #3e1c4e 20%);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    padding-bottom: 4rem;
+    padding-top: 5rem;
+    }
+
+.fakeimage{
+    padding-top: 2rem;
+    padding-left: 4rem;
+    padding-right: 4rem;
+    align-content: center;
+    }
+        
+
+
+h2{
+    color: #14194C;
+}
+
+h1, h3, h4, h5, h6{
+    text-align: center;
+    color: white;
+}
+
+li{
+    color: white; 
+}
+
+label{
+    color: white;
+}
+
+.sosmed-section{
+    padding: 2rem 0;
+    background: linear-gradient(to bottom, #13184d 0%, #3e1c4e 50%);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    padding-bottom: 2rem;
+    padding-top: 8rem;
+}
+.footer {
+    padding: 1rem 0;
+    background-color: #13184d;
+  }
+  
+@media (prefers-reduced-motion: no-preference) {
+:root {
+    scroll-behavior: smooth;
+    }
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #558985;
+    border-color: #50817e;
+  }
